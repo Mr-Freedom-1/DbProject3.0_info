@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    padding: 20px;
+}
+
+header{
+    border: 1px solid red;
+    height: 20vh;
+}
+
+.nav-link{
+    border: 1px solid green;
+    height: 60vh;
+}
+
+main{
+    border: 1px solid blue;
+    height: 60vh;
+    display: flex;
+}
+
+footer{
+    height: 20vh;
+    border: 1px solid violet;
+}
+
+.nav-link-list{
+    margin: 20px;
+}
